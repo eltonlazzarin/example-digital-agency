@@ -1,2 +1,2 @@
 # Digital Agency
-Example of a Digital Agency web page
+Example of a Digital Agency web page.
